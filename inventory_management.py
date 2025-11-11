@@ -1,3 +1,5 @@
+inventory = {}
+
 def add_product(name, quantity, price):
     """Adds a new product to the inventory dictionary.
 
